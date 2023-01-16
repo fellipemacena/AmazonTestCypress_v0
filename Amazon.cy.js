@@ -1,5 +1,5 @@
 describe('Ecommerce', () => {
-    it('Fluxo compra,Login,Checkout,Validação"', () => {
+    it('Fluxo compra,Login,Validação"', () => {
 
        /* que eu desejo acessar o site da Amazon*/
             cy.visit('https://amazon.com.br');
