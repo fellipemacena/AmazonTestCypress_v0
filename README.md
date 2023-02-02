@@ -1,4 +1,4 @@
-# AmazonTestCypress
+# AmazonTest via Cypress
 
 Automação de um fluxo de login -> busca -> seleção produto -> adiciona produto no carrinho -> exclui o mesmo do carrinho
 
